@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-beautiful-dnd": "^11.0.0",
+    "react-dom": "^16.8.6"
+  },
+  "name": "nextjs-rbd",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
